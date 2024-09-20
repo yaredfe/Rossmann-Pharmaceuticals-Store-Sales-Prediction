@@ -26,6 +26,7 @@ h11==0.14.0
 httpcore==1.0.5
 httpx==0.27.2
 idna==3.10
+iniconfig==2.0.0
 ipykernel==6.29.5
 ipython==8.27.0
 ipywidgets==8.1.5
@@ -68,6 +69,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 pillow==10.4.0
 platformdirs==4.3.6
+pluggy==1.5.0
 prometheus_client==0.20.0
 prompt_toolkit==3.0.47
 psutil==6.0.0
@@ -75,10 +77,12 @@ pure_eval==0.2.3
 pycparser==2.22
 Pygments==2.18.0
 pyparsing==3.1.4
+pytest==8.3.3
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
 pytz==2024.2
-pywin32==306; platform_system == "windows"
+pywin32==306
+pywinpty==2.0.13
 PyYAML==6.0.2
 pyzmq==26.2.0
 referencing==0.35.1
