@@ -1,1 +1,129 @@
 2024-09-21 22:47:47,246 - INFO - Logging configured at c:/Users/User/Downloads/film/Rossmann-Pharmaceuticals-Store-Sales-Prediction/logs\eda_log.txt
+2024-09-21 22:47:48,675 - INFO - Missing values handled.
+2024-09-21 22:47:49,398 - INFO - Outliers removed using Z-score method.
+2024-09-21 22:48:06,797 - INFO - Promotion distribution visualized.
+2024-09-21 22:48:09,239 - INFO - Sales behavior during holidays visualized.
+2024-09-21 22:48:13,300 - INFO - Correlation between sales and number of customers visualized.
+2024-09-21 22:48:14,445 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-21 22:48:15,145 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-21 22:48:15,716 - INFO - Promo effect on sales visualized.
+2024-09-21 22:48:18,427 - INFO - Assortment effect on sales visualized.
+2024-09-21 22:48:48,380 - INFO - Customer behavior during store opening and closing times visualized.
+2024-09-21 22:48:48,396 - INFO - Training promotion mean: 0.5159092602919975, Test promotion mean: 0.5159053644947239
+2024-09-22 13:54:08,574 - INFO - Logging configured at c:/Users/User/Downloads/film/Rossmann-Pharmaceuticals-Store-Sales-Prediction/logs\eda_log.txt
+2024-09-22 13:54:11,692 - INFO - Missing values handled.
+2024-09-22 13:54:12,624 - INFO - Outliers removed using Z-score method.
+2024-09-22 13:54:32,058 - INFO - Promotion distribution visualized.
+2024-09-22 13:54:34,597 - INFO - Sales behavior during holidays visualized.
+2024-09-22 13:54:38,453 - INFO - Correlation between sales and number of customers visualized.
+2024-09-22 13:54:39,840 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-22 13:54:40,506 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-22 13:54:41,022 - INFO - Promo effect on sales visualized.
+2024-09-22 13:54:43,168 - INFO - Assortment effect on sales visualized.
+2024-09-22 13:55:13,329 - INFO - Customer behavior during store opening and closing times visualized.
+2024-09-22 13:55:13,342 - INFO - Training promotion mean: 0.5159092602919975, Test promotion mean: 0.5159053644947239
+2024-09-22 14:02:40,136 - INFO - Logging configured at c:/Users/User/Downloads/film/Rossmann-Pharmaceuticals-Store-Sales-Prediction/logs\eda_log.txt
+2024-09-22 14:02:41,375 - INFO - Missing values handled.
+2024-09-22 14:02:42,057 - INFO - Outliers removed using Z-score method.
+2024-09-22 14:02:57,703 - INFO - Promotion distribution visualized.
+2024-09-22 14:02:59,841 - INFO - Sales behavior during holidays visualized.
+2024-09-22 14:03:03,603 - INFO - Correlation between sales and number of customers visualized.
+2024-09-22 14:03:04,446 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-22 14:03:05,274 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-22 14:03:05,809 - INFO - Promo effect on sales visualized.
+2024-09-22 14:03:07,990 - INFO - Assortment effect on sales visualized.
+2024-09-22 14:03:34,965 - INFO - Customer behavior during store opening and closing times visualized.
+2024-09-22 14:03:34,984 - INFO - Training promotion mean: 0.5159092602919975, Test promotion mean: 0.5159053644947239
+2024-09-22 14:04:56,153 - INFO - Seasonal sales: StateHoliday
+0    5744.299394
+a     175.341615
+b      76.571605
+c      90.265003
+Name: Sales, dtype: float64
+2024-09-22 14:07:11,051 - INFO - Logging configured at c:/Users/User/Downloads/film/Rossmann-Pharmaceuticals-Store-Sales-Prediction/logs\eda_log.txt
+2024-09-22 14:07:12,333 - INFO - Missing values handled.
+2024-09-22 14:07:12,989 - INFO - Outliers removed using Z-score method.
+2024-09-22 14:07:28,879 - INFO - Promotion distribution visualized.
+2024-09-22 14:07:30,987 - INFO - Sales behavior during holidays visualized.
+2024-09-22 14:07:34,686 - INFO - Correlation between sales and number of customers visualized.
+2024-09-22 14:07:35,644 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-22 14:07:36,294 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-22 14:07:36,784 - INFO - Promo effect on sales visualized.
+2024-09-22 14:07:39,026 - INFO - Assortment effect on sales visualized.
+2024-09-22 14:08:05,000 - INFO - Customer behavior during store opening and closing times visualized.
+2024-09-22 14:08:05,015 - INFO - Training promotion mean: 0.5159092602919975, Test promotion mean: 0.5159053644947239
+2024-09-22 14:08:05,187 - INFO - Seasonal sales: StateHoliday
+0    5744.299394
+a     175.341615
+b      76.571605
+c      90.265003
+Name: Sales, dtype: float64
+2024-09-22 14:08:05,308 - INFO - Promo sales: Promo
+0    4265.535156
+1    7717.863504
+Name: Sales, dtype: float64, Promo customers: Promo
+0    492.070946
+1    779.008427
+Name: Customers, dtype: float64
+2024-09-22 14:14:41,130 - INFO - Stores recommended for promo: Store
+827    0.401460
+445    0.393839
+444    0.388889
+925    0.386022
+464    0.384532
+4      0.383547
+378    0.383387
+930    0.383387
+848    0.383387
+421    0.383208
+Name: Promo, dtype: float64
+2024-09-22 14:16:08,112 - INFO - Logging configured at c:/Users/User/Downloads/film/Rossmann-Pharmaceuticals-Store-Sales-Prediction/logs\eda_log.txt
+2024-09-22 14:16:09,310 - INFO - Missing values handled.
+2024-09-22 14:16:09,974 - INFO - Outliers removed using Z-score method.
+2024-09-22 14:16:25,620 - INFO - Promotion distribution visualized.
+2024-09-22 14:16:27,759 - INFO - Sales behavior during holidays visualized.
+2024-09-22 14:16:31,386 - INFO - Correlation between sales and number of customers visualized.
+2024-09-22 14:16:32,306 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-22 14:16:33,071 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-22 14:16:33,584 - INFO - Promo effect on sales visualized.
+2024-09-22 14:16:35,817 - INFO - Assortment effect on sales visualized.
+2024-09-22 14:17:02,827 - INFO - Customer behavior during store opening and closing times visualized.
+2024-09-22 14:17:02,846 - INFO - Training promotion mean: 0.5159092602919975, Test promotion mean: 0.5159053644947239
+2024-09-22 14:17:03,111 - INFO - Seasonal sales: StateHoliday
+0    5744.299394
+a     175.341615
+b      76.571605
+c      90.265003
+Name: Sales, dtype: float64
+2024-09-22 14:17:03,218 - INFO - Promo sales: Promo
+0    4265.535156
+1    7717.863504
+Name: Sales, dtype: float64, Promo customers: Promo
+0    492.070946
+1    779.008427
+Name: Customers, dtype: float64
+2024-09-22 14:17:03,345 - INFO - Stores recommended for promo: Store
+827    0.401460
+445    0.393839
+444    0.388889
+925    0.386022
+464    0.384532
+4      0.383547
+378    0.383387
+930    0.383387
+848    0.383387
+421    0.383208
+Name: Promo, dtype: float64
+2024-09-22 14:17:03,489 - INFO - Competitor distance effect: CompetitionDistance
+20.0       4861.790870
+30.0       4659.587470
+40.0       6121.129598
+50.0       6509.845163
+60.0       7691.669410
+              ...     
+26990.0    7063.893843
+27150.0    4037.997877
+27190.0    4629.794195
+27530.0    4879.674814
+27650.0    2461.395966
+Name: Sales, Length: 630, dtype: float64
