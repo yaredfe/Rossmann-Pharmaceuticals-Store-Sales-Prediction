@@ -17,7 +17,7 @@ def setup_logging(log_directory="c:/Users/User/Downloads/film/Rossmann-Pharmaceu
         format='%(asctime)s - %(levelname)s - %(message)s',
         handlers=[
             logging.FileHandler(log_file_path),  # Write logs to specified file
-            logging.StreamHandler()  # Optional: Output logs to the console
+            # logging.StreamHandler()  # Optional: Output logs to the console
         ]
     )
     logging.info('Logging configured at %s', log_file_path)
