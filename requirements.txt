@@ -210,7 +210,7 @@ tabulate==0.9.0
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
 tensorflow==2.17.0
-tensorflow-intel==2.17.0
+tensorflow-intel==2.17.0;sys_platform == "windows"
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 terminado==0.18.1
