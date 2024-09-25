@@ -1,1 +1,0 @@
-2024-09-21 22:47:47,246 - INFO - Logging configured at c:/Users/User/Downloads/film/Rossmann-Pharmaceuticals-Store-Sales-Prediction/logs\eda_log.txt
